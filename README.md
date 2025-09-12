@@ -33,8 +33,7 @@ By visualizing flow, engineers and researchers can gain insight into how resourc
 
 ## User Interface
 
-<img width="1389" height="1388" alt="image" src="demo/screenshot.png" />  
-<!-- Replace with your own screenshot or GIF -->
+<img width="1817" height="1365" alt="image" src="https://github.com/user-attachments/assets/01c2d5ea-0856-49e9-8710-0df3c486623a" />
 
 ---
 
